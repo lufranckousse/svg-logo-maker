@@ -1,0 +1,25 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "n/a",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lufranckousse"
+  },
+  "author": "Lufranc Kousse",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
